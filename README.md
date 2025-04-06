@@ -1,4 +1,5 @@
 🧠 Project: Probability of Default (PD) Prediction Model with MLflow Tracking and Registry
+
 This document provides a clear, beginner-friendly explanation of a machine learning (ML) mini-project using MLflow. It walks through the entire process step by step, even for those who have not used MLflow or built ML models before.
 ________________________________________
 🎯 Objective
@@ -83,10 +84,4 @@ You’ve created a complete end-to-end ML pipeline that:
 •	Loads and reuses the model.
 •	Promotes the best model to production.
 ________________________________________
-🏁 Why This Is Valuable
-This mimics a real-world ML workflow used in companies:
-•	Track experiments
-•	Compare results.
-•	Reuse & deploy reliable models.
-•	Keep everything reproducible & organized.
-________________________________________
+
