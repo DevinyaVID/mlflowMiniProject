@@ -1,5 +1,7 @@
 🧠 Project: Probability of Default (PD) Prediction Model with MLflow Tracking and Registry
 
+The objective is to build a Probability of Default (PD) model that predicts whether a customer is likely to default on a loan. This is a classic binary classification problem — the output is either 1 (default) or 0 (no default)
+
 This document provides a clear, beginner-friendly explanation of a machine learning (ML) mini-project using MLflow. It walks through the entire process step by step, even for those who have not used MLflow or built ML models before.
 ________________________________________
 🎯 Objective
